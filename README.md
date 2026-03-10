@@ -33,7 +33,7 @@ Create a Virtual Private Cloud (VPC) with an Internet Gateway, configure network
 
 ### EC2 Instance Running
 
-![EC2 Running](screenshots/01_EC2_Instance_Running.png)
+![EC2 Running](screenshots/EC2 Instance Running.png)
 
 ### EC2 Public IP Address
 
