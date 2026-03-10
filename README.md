@@ -29,29 +29,6 @@ Create a Virtual Private Cloud (VPC) with an Internet Gateway, configure network
 
 ---
 
-## 📸 Screenshots
-
-### EC2 Instance Running
-
-![EC2 Running](EC2 Instance Running.png)
-
-### EC2 Public IP Address
-
-![Public IP](screenshots/02_EC2_Public_IP.png)
-
-### EC2 VPC and Subnet Details
-
-![VPC Subnet](screenshots/03_EC2_VPC_Subnet_Details.png)
-
-### EC2 Instance Configuration
-
-![Instance Details](screenshots/04_EC2_Instance_Details.png)
-
-### EC2 Launch Information
-
-![Launch Details](screenshots/05_EC2_Launch_Details.png)
-
----
 
 ## ✅ Result
 
