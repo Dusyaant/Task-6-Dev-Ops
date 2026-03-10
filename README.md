@@ -29,6 +29,18 @@ Create a Virtual Private Cloud (VPC) with an Internet Gateway, configure network
 
 ---
 
+## Architecture Overview
+
+VPC
+ ├── Public Subnet
+ │     └── EC2 Instance (Linux)
+ └── Private Subnet
+
+Internet Gateway
+      │
+Route Table → Public Subnet
+
+---
 
 ## ✅ Result
 
